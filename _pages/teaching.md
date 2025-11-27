@@ -1,6 +1,6 @@
 
 ---
-layout: page
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
@@ -27,5 +27,5 @@ I have had the opportunity to talk about the structures of sign languages as a g
 ​
 ## Summer Schools
 
-* [Sign Language Linguistics](https://www.youtube.com/watch?v=nIxxmcU_2RI&list=PLTaKyv0RfHlFiz6De477a5Sp2XeknVyS6&index=7) at _[Linguistic Summer School](https://nesinkoyleri.org/events/2017-arkhe-projesi-dilbilim-kampi/),_ Izmir, Turkey. Auugust 2017.
+* [Sign Language Linguistics](https://www.youtube.com/watch?v=nIxxmcU_2RI&list=PLTaKyv0RfHlFiz6De477a5Sp2XeknVyS6&index=7) at _[Linguistic Summer School](https://nesinkoyleri.org/events/2017-arkhe-projesi-dilbilim-kampi/),_ Izmir, Turkey. August 2017.
 * Teaching Assistant for _Elementary, Intermediate, Upper Intermediate Turkish Courses_ at Bogazici University Turkish Language and Culture Program. Summer 2012-2014.
