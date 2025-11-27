@@ -16,5 +16,5 @@ redirect_from:
 
 ##News
 ------
-
+- <i class="fa-solid fa-presentation-screen" style="margin-right: 6px;"></i> I will be presenting at LSA 2026.
 
