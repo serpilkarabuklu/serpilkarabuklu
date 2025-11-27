@@ -44,7 +44,7 @@ redirect_from:
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2024__ I was at [LSA 2024](https://virtual.oxfordabstracts.com/event/public/4438/information?page=1813) in New York. I presented our work with [Diane](https://linguistics.uchicago.edu/people/diane-brentari) on simultaneous accommodation strategies of ASL and TİD signers. I also presented my dissertation study on nonmanuals and signer certainty. It was great to catch up with everyone!
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> <img src="/images/datacollection.png" width="20" style="vertical-align:middle; margin-right:5px;"> __November 2023__ I was back at my alma mater, [Linguistics Department at Bogazici University](https://linguistics.bogazici.edu.tr/) for data collection. I also presented [our recent findings](https://linguistics.bogazici.edu.tr/blc-talk-serpil-karabuklu-november-24) on accommodation to atypicality among ASL and TİD signers. It was great to be back home after such a long time!
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> <img src="/images/information.png" width="20" style="vertical-align:middle; margin-right:5px;"> __November 2023__ I was back at my alma mater, [Linguistics Department at Bogazici University](https://linguistics.bogazici.edu.tr/) for data collection. I also presented [our recent findings](https://linguistics.bogazici.edu.tr/blc-talk-serpil-karabuklu-november-24) on accommodation to atypicality among ASL and TİD signers. It was great to be back home after such a long time!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2023__ I presented my dissertation studies on signer certainty and nonmanuals in TİD as a poster at [XPrag 10](https://xpragx.sciencesconf.org/).
 
@@ -56,7 +56,7 @@ redirect_from:
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __March 2023__ I presented my study on borrowed sign in TİD at the DGfS 45 [Workshop on The Dynamics of Asymmetric Language Contact](https://blog.studiumdigitale.uni-frankfurt.de/dalc/dgfs-2023-ag3-coexistence-competition-and-change/).
 
-<img src="/images/graduate1.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2022__ Now, I am officially graduated from Purdue with my PhD. Thank you, [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) for everything!
+<img src="/images/graduated.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2022__ Now, I am officially graduated from Purdue with my PhD. Thank you, [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) for everything!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __November 2022__ I presented my dissertation studies on signer certainty and nonmanuals in TİD at the Department of Linguistics at the University of Edinburgh. Thank you for having me!
 
