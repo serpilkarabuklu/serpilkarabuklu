@@ -17,15 +17,15 @@ redirect_from:
   
    While not working on sign languages, you can find me exploring the city with my retriever-mix rescue dog, Oscar, going on hikes, swimming, or picking up a new hobby.
 
-## 🗞 News
+## <img src="/images/newspaper.png" width="20" style="vertical-align:middle; margin-right:5px;"> News
 ------
-🗨 __January 2026__ I will be presenting my work with Diane Brentari on [prominence and atypicality in ASL and TİD](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787) at [LSA 2026](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787). Excited to meet and catch up with friends, and make new!
+<img src="/images/presentation.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2026__ I will be presenting my work with Diane Brentari on [prominence and atypicality in ASL and TİD](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787) at [LSA 2026](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787). Excited to meet and catch up with friends, and make new!
 
-🗨 __November 2025__ I shared my pose estimation study findings on [head nods in ASL and TİD](https://sign-language-grammars-parsers-brain.github.io/abstracts/Karabuklu%20-%20Form%20and%20Meaning%20Relations%20of%20Head%20Nods%20Across%20Sign%20Languages.pdf) at [Sign Langauge Grammars, Parsing Models, and the Brain Workshop](https://sign-language-grammars-parsers-brain.github.io/).
+<img src="/images/presentation.png" width="20" style="vertical-align:middle; margin-right:5px;"> __November 2025__ I shared my pose estimation study findings on [head nods in ASL and TİD](https://sign-language-grammars-parsers-brain.github.io/abstracts/Karabuklu%20-%20Form%20and%20Meaning%20Relations%20of%20Head%20Nods%20Across%20Sign%20Languages.pdf) at [Sign Langauge Grammars, Parsing Models, and the Brain Workshop](https://sign-language-grammars-parsers-brain.github.io/).
 
-🗨 __October 2025__ I presented how sign language affects signers' and learners' production and perception at [APS Roundtable Perceiving Motion, Producing Meaning](https://app.socio.events/NTYxNDc/Agenda/479976/Session/1321069).
+<img src="/images/presentation.png" width="20" style="vertical-align:middle; margin-right:5px;"> __October 2025__ I presented how sign language affects signers' and learners' production and perception at [APS Roundtable Perceiving Motion, Producing Meaning](https://app.socio.events/NTYxNDc/Agenda/479976/Session/1321069).
 
-🗨 __October 2025__ I presented how prominence shapes simultaneity in ASL and TİD at [the University of Chicago Center for Gesture, Sign, and Language Mini Conference](https://voices.uchicago.edu/cgsl/events/).
+<img src="/images/presentation.png" width="20" style="vertical-align:middle; margin-right:5px;"> __October 2025__ I presented how prominence shapes simultaneity in ASL and TİD at [the University of Chicago Center for Gesture, Sign, and Language Mini Conference](https://voices.uchicago.edu/cgsl/events/).
 
-💰 __May 2025__ Along with Austin German and Jeff Davis, we received a small grant from the Center for Gesture, Sign, and Language at the University of Chicago to investigate the effects of animacy on word order across languages, ASL, TİD, LSN, and Z Sign. Stay tuned for the results!
+<img src="/images/grant.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2025__ Along with Austin German and Jeff Davis, we received a small grant from the Center for Gesture, Sign, and Language at the University of Chicago to investigate the effects of animacy on word order across languages, ASL, TİD, LSN, and Z Sign. Stay tuned for the results!
 
