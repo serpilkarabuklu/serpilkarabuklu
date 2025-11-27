@@ -6,10 +6,8 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
-
 ---
-## <img src="/images/newspaper.png" width="20" style="vertical-align:middle; margin-right:5px;"> News
-------
+
 <img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __January 2026__ I will be presenting my work with Diane Brentari on [prominence and atypicality in ASL and TİD](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787) at [LSA 2026](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787). Excited to meet and catch up with friends, and make new!
 
 <img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __November 2025__ I shared my pose estimation study findings on [head nods in ASL and TİD](https://sign-language-grammars-parsers-brain.github.io/abstracts/Karabuklu%20-%20Form%20and%20Meaning%20Relations%20of%20Head%20Nods%20Across%20Sign%20Languages.pdf) at [Sign Langauge Grammars, Parsing Models, and the Brain Workshop](https://sign-language-grammars-parsers-brain.github.io/).
