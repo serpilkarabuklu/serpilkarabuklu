@@ -4,9 +4,6 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 
 ---
  I earned my bachelor's degree from the Foreign Language Education Department at Boğaziçi University where I was trained for pedagogical methods for different levels. I completed my practicum in a private school in Istanbul. Then, I was also trained for teaching linguistics at the graduate level pedagogy class at  Purdue University. 
