@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Serpil Karabüklü"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Postdoctoral Researcher at Toyota Technological Institute at Chicago"
   location         : "Chicago, Illinois"
-  employer         : ""
+  employer         : # URL
   uri              : # URL
   email            : "skarabuklu@ttic.edu" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-5221-4575"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Serpil-Karabueklue?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
