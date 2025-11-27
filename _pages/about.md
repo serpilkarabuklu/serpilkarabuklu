@@ -17,7 +17,7 @@ redirect_from:
   
    While not working on sign languages, you can find me exploring the city with my retriever-mix rescue dog, Oscar, going on hikes, swimming, or picking up a new hobby.
 
-## News
+## &#xU+1F5DE; News
 ------
-- <i class="fa-solid fa-presentation-screen"></i> I will be presenting at LSA 2026.
+- <i <i class="fa-regular fa-comments"></i>"></i> I will be presenting at LSA 2026.
 
