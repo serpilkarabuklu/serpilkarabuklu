@@ -17,7 +17,7 @@ redirect_from:
   
    While not working on sign languages, you can find me exploring the city with my retriever-mix rescue dog, Oscar, going on hikes, swimming, or picking up a new hobby.
 
-## <img src="/images/newspaper.png" width="20" style="vertical-align:middle; margin-right:5px;"> News
+## <img src="/images/newspaper.png" width="20" style="vertical-align:middle; margin-right:5px;"> Recent News
 ------
 <img src="/images/presentation2.png" width="25" style="vertical-align:middle; margin-right:5px;"> __January 2026__ I will be presenting my work with Diane Brentari on [prominence and atypicality in ASL and TİD](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787) at [LSA 2026](https://web.cvent.com/event/d453188a-a321-46d4-b57e-79d5067e6521/websitePage:0fce7914-bbae-47fb-991c-3050b18e5787). Excited to meet and catch up with friends, and make new!
 
