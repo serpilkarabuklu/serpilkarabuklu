@@ -32,6 +32,8 @@ redirect_from:
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2024__ I presented our studies with [Aslı](https://www.bilgi.edu.tr/tr/akademik/kadro/asli-gurer/)  on focus in TİD at the Max Planck Institute Psycholinguistics Department Multimodal Language Department. It was a great discussion, thank you for inviting me!
 
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2024__ My [article](https://www.sciencedirect.com/science/article/pii/S0378216624001619?via%3Dihub) from my dissertation on signer certainty and nonmanuals in TİD is published in _Journal of Pragmatics_!
+
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __August 2024__ I was back at Ann Arbor, MI, this time for [FEAST](https://sites.lsa.umich.edu/feast2024/about/) with two talks. One was stage talk about our studies on accommodation strategies in ASL and TİD with [Diane](https://linguistics.uchicago.edu/people/diane-brentari). The other talk was poster talk about focus in TİD with [Aslı](https://www.bilgi.edu.tr/tr/akademik/kadro/asli-gurer/). It was great cathcing up with all friends and colleagues!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2024__ I presented our very first findings on the effect of number of nonmanuals on TİD signers' accuracy and reaction time with [Diane](https://linguistics.uchicago.edu/people/diane-brentari) at [HSP 2024](https://hsp2024.github.io/) in Ann Arbor, MI. 
@@ -39,6 +41,8 @@ redirect_from:
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __March 2024__ I presented my studies on how (a)typicality affects simultaneous structure in ASL and TİD at the Department of Modern Languages and Cultures at Wichita State University. It was a great meeting with faculty and students!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2024__ I was at DGfS in Bochum, Germany to present my dissertation study findings on [nonmanuals and signer certainty](https://sites.google.com/view/visual-clause-type-marking/home?authuser=0) with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) and our initial findings on [the effects of focus on focal and non-focal domains](https://www.dgfs2024.ruhr-uni-bochum.de/dgfs/programm/arbeitsgruppen/index.html.en) in TİD with [Aslı](https://www.bilgi.edu.tr/tr/akademik/kadro/asli-gurer/) and [Burak](https://www.linkedin.com/in/kas%C4%B1m-burak-%C3%A7avu%C5%9Fo%C4%9Flu-11107491/?originalSubdomain=tr).
+
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2024__ Our [article](https://www.cambridge.org/core/journals/language-and-cognition/article/prosody-of-focus-in-turkish-sign-language/D0C2E29100E7AAE142F5E0485B007DEB) with [Aslı](https://www.bilgi.edu.tr/tr/akademik/kadro/asli-gurer/) on prosody of focus in TİD is published in _Language and Cognition_!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2024__ I presented my studies on how (a)typicality affects simultaneous structure in ASL and TİD at the Department of Languages and Cultures at Southern Illinois University. It was a great meeting with faculty and students!
 
@@ -52,18 +56,70 @@ redirect_from:
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __April 2023__ I presented my study on evidentiality and epistemic signs in TİD at the [Workshop on Modality in Underdescribed Languages](https://sites.google.com/view/modality-workshop2023/home).
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __March 2023__ I presented my dissertation studies on signer certainty and nonmanuals in TİD at the Department of Linguistics at the University of Texas, Austin. I had great time with fruitful discussions and meeting with old and new faces!
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __March 2023__ I presented my dissertation studies on signer certainty and nonmanuals in TİD at the Department of Linguistics at the University of Texas, Austin. I had a great time with fruitful discussions and meeting with old and new faces!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __March 2023__ I presented my study on borrowed sign in TİD at the DGfS 45 [Workshop on The Dynamics of Asymmetric Language Contact](https://blog.studiumdigitale.uni-frankfurt.de/dalc/dgfs-2023-ag3-coexistence-competition-and-change/).
 
-<img src="/images/graduated.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2022__ Now, I am officially graduated from Purdue with my PhD. Thank you, [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) for everything!
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2023__ Our [TU+ Proceeding](https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5321) with [Aslı](https://www.bilgi.edu.tr/tr/akademik/kadro/asli-gurer/) on nonmanual focus markers in TİD is out!
+
+<img src="/images/graduated.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2022__ Now, I am officially graduated from Purdue with my PhD degree. Thank you so much, [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) for everything!
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __November 2022__ I presented my dissertation studies on signer certainty and nonmanuals in TİD at the Department of Linguistics at the University of Edinburgh. Thank you for having me!
 
 <img src="/images/institute.png" width="20" style="vertical-align:middle; margin-right:5px;"> __October 2022__ I started my new position as a postdoctoral researcher under Dr. [Diane Brentari](https://linguistics.uchicago.edu/people/diane-brentari)'s guidance at the Department of Linguistics at the University of Chicago!
 
-<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2022__ We presented our initial findings on focus and nonmanual with [Aslı](https://www.bilgi.edu.tr/tr/akademik/kadro/asli-gurer/) at [TU+ 7](https://linguistics.uconn.edu/2022/02/06/tu7-at-uconn/). 
+<img src="/images/phd.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2022__ I defended my dissertation on the [semantics of modal signs and co-occurring nonmanuals](https://hammer.purdue.edu/articles/thesis/MODAL_SIGNS_AND_COOCCURRING_NONMANUAL_MARKERS_IN_TURKISH_SIGN_LANGUAGE_TID_/21325785?file=37850898)! Thanks to all my participants for their time and patience with me, my committee members [Elaine](https://www.cla.purdue.edu/directory/profiles/elaine-francis.html), [Lori](https://www.cla.purdue.edu/faculty-staff/profiles/promoted/promotions-18/czerwionka-lori.html), [Daniel](https://www.uni-stuttgart.de/en/press/experts/Prof.-Daniel-Hole/), and my dear advisor [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) for everything!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2022__ We presented our initial findings on focus and nonmanuals in TİD with [Aslı](https://www.bilgi.edu.tr/tr/akademik/kadro/asli-gurer/) at [TU+ 7](https://linguistics.uconn.edu/2022/02/06/tu7-at-uconn/). 
 
 <img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __January 2022__ I attended my first LSA Annual Meeting in Washington, DC to present our work on nonmanual annotation guidelines with [Ashley](https://www.linkedin.com/in/ashley-kentner-66bb361b6/) and [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html).
+
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2021__ Our [article](https://www.jbe-platform.com/content/journals/10.1075/sll.20006.kar) with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) on aspect signs in TİD is published in _Sign Language &amp; Linguistics_!
+
+<img src="/images/business.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2021__ I received the Purdue University Ross-Lynn Research Fund to carry out my dissertation studies!
+
+<img src="/images/medal.png" width="20" style="vertical-align:middle; margin-right:5px;"> __April 2021__ I am awarded with Kneale Literary Award in Linguistics for my dissertation chapter! 
+
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2020__ Our [CLS proceeding](https://www.chicagolinguisticsociety.com/list.html) on modal signs in TİD with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) is published!
+
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __March 2020__ Our [article](https://link.springer.com/article/10.1007/s10579-019-09465-5?cjdata=MXxOfDB8WXww) on machine readable TİD resource with [Gülşen Eryiğit]([https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html](https://web.itu.edu.tr/gulsenc/)), [Cihat Eryiğit](https://www.researchgate.net/scientific-contributions/Cihat-Eryigit-2136473370), [Meltem Kelepir](https://www.linkedin.com/in/meltemkelepir/), [Aslı Özkul](https://www.alanyauniversity.edu.tr/tr/mudur), [Tuğba Pamay](https://research.itu.edu.tr/en/persons/pamay/), [Dilara Torunoğlu-Selamet](https://akademi.itu.edu.tr/tr/torunoglud/Dilara-Toruno%C4%9Flu-Selamet/), and [Hatice Köse](https://research.itu.edu.tr/en/persons/hatice-k%C3%B6se/) is published in _Language Resources &amp; Evaluation_!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2019__ I was at [TISLR](https://www.idgs.uni-hamburg.de/en/forschung/tagungen/tislr2019.html) in Hamburg, Germany to present our poster on the morphology of number signs in TİD with [Aslı Özkul](https://www.alanyauniversity.edu.tr/tr/mudur).
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2019__ I attended [Expressing Evidentiality Workshop](http://semantics.uni-konstanz.de/workshops/evidence-2019/) in Konsanz, Germany to present my evidentiality work on TİD mouth gesture with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html). Konstanz was beautiful!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2019__ I was at [CLS 55](https://www.chicagolinguisticsociety.com/public/CLS55_Program.pdf) to present our work on modal semantics and nonmanuals with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) in Chicago, IL. It was great to catch up with friends and colleagues! 
+
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __December 2018__ Our [FEAST proceeding](https://doi.org/10.31009/FEAST.i2.07) with [Fabian](https://www.fabianbross.de/), [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html), and [Daniel](https://www.uni-stuttgart.de/en/press/experts/Prof.-Daniel-Hole/) on modal signs and scope relations in TİD is published!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2018__ [Ruth](https://www.cla.purdue.edu/directory/profiles/margaret-crabtree.html) presented our work with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) on Japanese Sign Language modal at the 7th Meeting of Spoken and Signed Language Linguistics Conference in Osaka, Japan.
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2018__ I was at [Sign Language Grammars through the Formal and Experimental Glass](http://www.phl.uoc.gr/cssl18/ProgSignWorkshop.pdf) to present our work on Cinque's Hierarchy mapping in sign languages with [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) in Crete, Greece. Conversation with friends, food, and the Aegean sea were amazing!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2018__ I attended [FEAST 2018](https://sites.google.com/site/feastconference/conferences/feast-2018-venice) to present our work on modal signs in TİD with [Fabian](https://www.fabianbross.de/), [Ronnie](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html), and [Daniel](https://www.uni-stuttgart.de/en/press/experts/Prof.-Daniel-Hole/) in Venice, Italy. It was great to be back at FEAST and in Venice!
+
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2018__ A new [article](https://dergipark.org.tr/en/download/article-file/499587) on time expressions in TİD is out in the Journal of Linguistics!
+
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2017__ My [WAFL proceeding](http://mitwpl.mit.edu/catalog/mwpl83/) on aspect signs in TİD is published!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2016__ I was back to my very first conference [FEAST](https://sites.google.com/site/feastconference/conferences/feast-venice-2016?authuser=0) in Venice to present my findings from my master thesis on aspect sign and nonmanual in TİD. It has always been beautiful to be back at FEAST and sign linguist community!
+
+<img src="/images/graduated.png" width="20" style="vertical-align:middle; margin-right:5px;"> __July 2016__ I defended my [master thesis](https://collections.library.bogazici.edu.tr/record=b1824972~S5) on time and aspect in TİD! I am thnakful for my thesis committee [Meltem Kelepir](https://www.linkedin.com/in/meltemkelepir/), [Aslı Göksel](https://linguistics.bogazici.edu.tr/tr/asli-goksel), and [Engin Arık](https://www.enginarik.com/). 
+
+<img src="/images/article2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2016__ Our [LREC proceeding](https://aclanthology.org/L16-1220/) on BosphorusSign TİD Recognition Corpus with [Cihan Camgöz](https://www.cihancamgoz.com/), [Alp Kındıroğlu](https://www.linkedin.com/in/alp-kindiroglu/?originalSubdomain=tr), [Meltem Kelepir](https://www.linkedin.com/in/meltemkelepir/), [Sumru Özsoy](https://linguistics.bogazici.edu.tr/tr/sumru-ozsoy), and [Lale Akarun](https://www.cmpe.boun.edu.tr/people/lale.akarun) is published!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2016__ [Cihan](https://www.cihancamgoz.com/) presented our work on BosphorusSign for automatic translation from TİD to Turkish with [Alp Kındıroğlu](https://www.linkedin.com/in/alp-kindiroglu/?originalSubdomain=tr), [Meltem Kelepir](https://www.linkedin.com/in/meltemkelepir/), [Sumru Özsoy](https://linguistics.bogazici.edu.tr/tr/sumru-ozsoy), and [Lale Akarun](https://www.cmpe.boun.edu.tr/people/lale.akarun) at [LREC 2016](http://lrec2016.lrec-conf.org/en/). 
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2016__ I attended WAFL 12 to present my master studies on perfective markers in TİD in Hartford, CT.
+
+<img src="/images/business.png" width="20" style="vertical-align:middle; margin-right:5px;"> __April 2016__ I am awarded Lynn Doctoral Fellowship from Purdue University Graduate Office!
+
+<img src="/images/institute.png" width="20" style="vertical-align:middle; margin-right:5px;"> __April 2016__ I will be starting PhD program at the [Department of Linguistics](https://www.cla.purdue.edu/academic/sis/p/linguistics/index.html) at Purdue University under Dr. [Ronnie Wilbur's](https://www.cla.purdue.edu/directory/profiles/ronnie-wilbur.html) supervision in August! I am excited for the new adventure!
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __September 2015__ I attended the 2015 International Congress on Barrier-Free Information Technology to present our work on online self learning platform of Turkish for TİD signers with [Caner Derici](https://home.dericilab.live/), [Meltem Kelepir](https://www.linkedin.com/in/meltemkelepir/), [Sumru Özsoy](https://linguistics.bogazici.edu.tr/tr/sumru-ozsoy), and [Tunga Güngör](https://www.cmpe.boun.edu.tr/tr/people/tunga.gungor) in Manisa, Turkey.
+
+<img src="/images/presentation2.png" width="20" style="vertical-align:middle; margin-right:5px;"> __May 2015__ I attended [FEAST](https://sites.google.com/site/feastconference/conferences/feast-2015-barcelona-2) to present my poster on the perfective sign in TİD in Barcelona, Spain. I also attended the SignGram Summer School. 
+
+<img src="/images/business.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2015__ I received a travel grant to attend SignGram Summer School in Barcelona, Spain in May.
 
 
