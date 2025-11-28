@@ -122,4 +122,4 @@ redirect_from:
 
 <img src="/images/business.png" width="20" style="vertical-align:middle; margin-right:5px;"> __February 2015__ I received a travel grant to attend SignGram Summer School in Barcelona, Spain in May.
 
-
+<img src="/images/training.png" width="20" style="vertical-align:middle; margin-right:5px;"> __June 2014__ I attended [COST SignGram Summer School](https://sites.google.com/site/feastconference/summer-school) to learn more about sign language research. I also attended my very first academic conference [FEAST](https://sites.google.com/site/feastconference/home?authuser=0). It seems that I will be back!
